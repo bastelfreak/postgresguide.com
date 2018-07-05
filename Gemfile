@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', '>= 2.5.3'
 gem 'sass'
-gem 'compass'
+gem 'compass', '>= 1.0.3'
 gem 'coffee-script'
 gem 'foreman'
